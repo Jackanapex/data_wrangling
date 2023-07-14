@@ -1,9 +1,14 @@
 # data_wrangling
-A personal repository for data wrangling tasks \
-To initialize the project folder run the following in terminal: \
+A personal repository for data wrangling tasks
 
-python -m venv venv \
-source venv/bin/activate \
-pip install -r requirements.txt \
+To initialize the project folder run the following in terminal:
 
-Then you are ready to go \
+
+python -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+
+Then you are ready to go
