@@ -1,3 +1,6 @@
+# Please note this file is generated automatically with pip freeze > requirements.txt
+# Most of these dependencies are for the jupyter notebook in VSCode and are not required 
+# for the actual code to run
 asttokens==2.2.1
 backcall==0.2.0
 beautifulsoup4==4.12.2
